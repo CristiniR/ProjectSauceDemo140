@@ -16,4 +16,8 @@ Script de automação desenvolvido conforme solicitação da Lista de Exercício
 # test_2_Criação_de_usuário
 Script de automação desenvolvido conforme solicitação da Lista de Exercícios 06, utilizando o site https://www.agromeyer.com.br/.
 
+# Feature selecionar_produtos
+Script de automação utilizando Selenium WebDriver com Behave desenvolvido em aula e concluido conforme solicitação da Lista de Exercícios 07
 
+# Feature  Lista_exercicios_07
+Script de automação utilizando Selenium WebDriver com Behave desenvolvido conforme solicitação da Lista de Exercícios 07
